@@ -1,7 +1,7 @@
 {
   "private": true,
-  "name": "masterPortfolio",
-  "homepage": "https://Kittorushi.github.io",
+  "name": "rush-portfolio.github.io",
+  "homepage": "https://kittorushi.github.io/",
   "version": "0.1.0",
   "scripts": {
     "build": "react-scripts build",
